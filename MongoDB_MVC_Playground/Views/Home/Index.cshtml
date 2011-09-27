@@ -1,8 +1,20 @@
-﻿@{
+﻿@model IEnumerable<MongoDB_MVC_Playground.Models.HomeModel>
+
+@{
     ViewBag.Title = "Home Page";
 }
 
-<h2>@ViewBag.Message</h2>
-<p>
-    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
-</p>
+@(Html.Telerik().Grid(Model)
+        .Name("Grid")
+        .Columns(columns =>
+        {
+            columns.Bound(o => o._id).Width(100);
+            columns.Bound(o => o.SeqNum).Width(100);
+            columns.Bound(o => o.DateInserted).Width(200);
+            columns.Bound(o => o.Reference).Width(200);
+        })
+        .Scrollable(scrolling => scrolling.Enabled(true))
+        .Sortable(sorting => sorting.Enabled(true))
+        .Pageable(paging => paging.Enabled(true))
+        .Footer(true)
+) 

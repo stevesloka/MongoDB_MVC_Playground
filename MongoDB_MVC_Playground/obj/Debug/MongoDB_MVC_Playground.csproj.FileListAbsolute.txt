@@ -1,0 +1,12 @@
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\MongoDB_MVC_Playground.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\MongoDB_MVC_Playground.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\EntityFramework.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\EntityFramework.xml
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\obj\Debug\MongoDB_MVC_Playground.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\obj\Debug\MongoDB_MVC_Playground.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\Telerik.Web.Mvc.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\Telerik.Web.Mvc.xml
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\MongoDB.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\MongoDB.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground\bin\MongoDB.xml

@@ -1,0 +1,8 @@
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\bin\Debug\MongoDB_Loader.exe
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\bin\Debug\MongoDB_Loader.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\obj\x86\Debug\MongoDB_Loader.exe
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\obj\x86\Debug\MongoDB_Loader.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\bin\Debug\MongoDB.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\bin\Debug\MongoDB.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_Loader\bin\Debug\MongoDB.xml

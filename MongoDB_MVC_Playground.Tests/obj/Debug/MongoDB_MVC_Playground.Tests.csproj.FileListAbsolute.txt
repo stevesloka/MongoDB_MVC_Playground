@@ -1,0 +1,11 @@
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB_MVC_Playground.Tests.dll.config
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB_MVC_Playground.Tests.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB_MVC_Playground.Tests.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB_MVC_Playground.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB_MVC_Playground.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\obj\Debug\MongoDB_MVC_Playground.Tests.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\obj\Debug\MongoDB_MVC_Playground.Tests.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB.dll
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB.pdb
+C:\Users\ssloka\~SteveDev\MongoDB_MVC_Playground\MongoDB_MVC_Playground.Tests\bin\Debug\MongoDB.xml

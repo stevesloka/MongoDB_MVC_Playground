@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6EE01D43-5C50-4766-9C60-C8F4574C70B6" ModuleId="MongoDB_MVC_Playground" />
+  <Module PersistentId="37821166-0A21-4AE2-BDD3-57623AC38926" ModuleId="MongoDB_Loader" />
+</Modules>
